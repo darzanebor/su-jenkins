@@ -1,3 +1,3 @@
 ### suJenkins
 
-##### Create Jenkins container with sudo addon for jenkins user
+##### Jenkins container with sudo addon for jenkins user
